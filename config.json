@@ -1,0 +1,14 @@
+{
+  "token_bot": "MTM3MTQyODYwODg3ODU3NTcyNw.G76AGU.75t1mwz9OOax61yZtIGePK7LQLXSdLbrsv3TnA",
+ 
+  "id_googleSheet": "1vGFVCTRciHGyv9GRLx5wPZWbrWehkU3IbzRcYlh_lXw",
+
+  "WEBHOOK_URL": "https://discord.com/api/webhooks/1370256887349645313/OW0sYBO8rVijGpYsDy7-wAddyewBI2XuC-INGq0jp5Zsn5iz1GSStF9ogYvQqpKqTvXE",
+ 
+  "name_googleSheet": "Medmwng_Status",
+
+  "Admin_command": ["776981052601270273", "856543938352906261" , "520919609789120534"],
+
+  "column_A": "A",
+  "column_Z": "S"
+}
